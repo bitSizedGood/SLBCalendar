@@ -1,0 +1,19 @@
+{
+  "name": "slbcalendar",
+  "version": "1.0.0",
+  "description": "Custom Calendar React Plugin that integrates with Webflow to display Self Love Beauty's events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitSizedGood/SLBCalendar.git"
+  },
+  "author": "BitSizedGood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitSizedGood/SLBCalendar/issues"
+  },
+  "homepage": "https://github.com/bitSizedGood/SLBCalendar#readme"
+}
