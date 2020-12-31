@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/bitSizedGood/SLBCalendar/issues"
   },
-  "homepage": "https://github.com/bitSizedGood/SLBCalendar#readme"
+  "homepage": "https://github.com/bitSizedGood/SLBCalendar#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
 }
